@@ -1,0 +1,24 @@
+14年前，我在南京的时候，接触了php的zend架构，当时觉得这价格用在后端很无敌。我也没有多想。
+10年前，在章总那，他教我 spring  hibernate struts，我就这样拜静哥为师了。
+8年前，自己捣鼓了tiny sshd，那时候rest刚普及，我很庆幸自己是行家了。
+6年前，来美国了，接触了beego 和python rest后端。
+4年前，重回java阵营，3年前用  mybatis jboss
+2年前， 搞了下go matini rest， 自己把mongoose rest c也弄了下。
+1年前 接触了yii 和laravel，
+现在 搞了下rust rest， go rpc， java camel boot spring，
+
+经验是宝贵的，心中也不禁产生了些想法。具体的工程，具体的应用，不拘于某种语言和某类框架 。
+
+14年前拿着php与河朔争雄，到现在不拘于一种语言，各种框架皆为兵刃。我的思维也开始慢慢转变。
+
+1如果项目大，并发低那就用java jboss spring mybatis
+2如果项目大，并发高 就用 go matini xorm redigo
+3如果项目小，实时性强 就用mongoose rust
+4如果项目小，工程多，就用spring boot docker
+5如果项目小，开发周期长可以用 laravel  。yii，zend
+
+灵活运用各种语言，用其长，避其短。
+
+
+
+yaoguang luo
