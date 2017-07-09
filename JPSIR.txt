@@ -1,0 +1,26 @@
+Jpsir is my teacher, while I think of him. my eyes such as the lake.
+
+The first story
+
+I still remember a class where jpsir let us do the assemberly language for deletion.he said
+we can't use 8086/ or other higher vesion to do this logic. so we try to using 8085. after I
+searched all the asm commands, I did not find any resource about deletion. then jpsir came
+and asked, how does computer deletion? I got results, using n's complement and implememt and
+add 1 , if get carry, than do a complement add 1 again. then he got an smell, 8086's deletion
+is true using this method.
+
+after this session, I strongly knowing that science is an evolutionary inheritance。everything
+we know how to use it, and we also need to know how to made it.
+
+The second story
+
+this is a computer IC class and we need to do a runtime design of CPU, to make caculation
+of each ASM command processing, we also need to draw the state graph.
+
+when I finish the question , I saw him towerd with me and looking carefully with my graph, he asked me
+where is the clock comments? I said in the left parts, he angry with me and said: why you write in the
+left part? all the book, all the resource is for the right. I know my mistake, and suddenly changed
+to the right.
+
+after this session, I strongly knowing that science is an rigorous and accuration, everything we know
+how to use it, but we can not changed it. . 
