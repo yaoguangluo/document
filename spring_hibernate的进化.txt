@@ -8,7 +8,7 @@ spring有着强大的生命力，我浅浅谈谈我的想法。
 spring回归了， 听到这个消息是2年前， 我接触了spring EDA  和 IOC DI 发现这种n tire架构真的百用不爽
 甚至让我忘掉了golang并发的强处 继续用spring。
 
-我的方向是对的。 hibernate4也出来了。向我这样直接从 2 跳到4 的人，你会发现有多少东西你赞不绝口。是的我
+我的方向是对的。 hibernate4也出来了。像我这样直接从 2 跳到4 的人，你会发现有多少东西你赞不绝口。是的我
 又放弃了mybatis 和xorm。
 
 当你在用hibernate4的时候不用考虑 JPA， 不用考虑 mapping， 不用考虑 reflection， 直接写entity就能索引的
