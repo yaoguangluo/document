@@ -1,1 +1,25 @@
+我第一次接触spring和hibernate有很长一段时间，这段时间我甚至放弃过spring转向go，可是我又回来了。
+spring有着强大的生命力，我浅浅谈谈我的想法。
 
+第一次接触spring2 和 hibernate2， 我心里想这是什么东东，除了比jdbc好用点，没有任何。闪光点。
+当我用到hibernate2的 relationship时候，发现这1 per many， many to many都需要配置，心里开始发毛。
+用mybatis比hibernate快多了， 我甚至有很长一段时间用 mybatis 和 go lang的 xorm。
+
+spring回归了， 听到这个消息是2年前， 我接触了spring EDA  和 IOC DI 发现这种n tire架构真的百用不爽
+甚至让我忘掉了golang并发的强处 继续用spring。
+
+我的方向是对的。 hibernate4也出来了。向我这样直接从 2 跳到4 的人，你会发现有多少东西你赞不绝口。是的我
+又放弃了mybatis 和xorm。
+
+当你在用hibernate4的时候不用考虑 JPA， 不用考虑 mapping， 不用考虑 reflection， 直接写entity就能索引的
+时候， 是的，这无疑是王者。
+
+上面仅仅是部分实际好处。
+
+接触spring 4 加上  hibernate4 写spring boot 运行在docker上的jetty中， 是的， 越来越多的是卫星服务。
+一个主服务在 jboss 上运行spring mvc ，然后boot各种卫星服务。这是未来的趋势。
+
+暗暗的恭喜自己选择spring hibernate 是对的选择。
+
+
+罗瑶光
