@@ -1,0 +1,13 @@
+ spring boot出来2年了， 以前没有时间上手， 6年前搞了许久的camel， 直接过度到springboot， 发现心胸更大了， 有木有。
+ 
+ 
+ 。。这几天在各大开源论坛里面混着， 发现水太深啦。
+ 
+ 国内出现了jboot，这个框架试了下， 写微服务不错嘛， 如果是新手 想速成java rpc服务， 这东西是妥妥的。 如果是专业大神，
+ 知识还是要spring boot 来积累的。
+ 
+ 然后又看了下mybatis plus， 不错呀，支持分表分库的xml配置了， 不过也挺伤心的， 这不是走hibernate的路线了么。我个人意见
+ mybatis 应该和hibernate 合并， 让mybatis 替代hibenate的hql， 我为我自己的这个想法点了个赞。拭目以待吧。 
+ 
+ 
+ 天气变热了，有机会去印尼的java 岛玩玩，在java 岛上写java 肯定有感觉。
