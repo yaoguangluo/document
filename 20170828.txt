@@ -1,0 +1,31 @@
+Today, I picked my leader to his home, in the highway, he said go exit, the pronociation of exit what i heard is"erxziit", 
+at that time i really couldn't understand what he was talking about, after a while, he said exit means go out of this line.
+
+I said the pronociation of exit is "erxsaite", my leader said " no Tin , you did wrong! "erxziit" is right , "erxsaite" meas you 
+are happy.
+
+omg!!!!!! I had leaned exit this words when i was 14 years old, now I m 32 years old, during this 18 years, nobody had pointed my errors...
+then i said: "mir, you are my true friend".
+
+重点来了！
+大家都说hibernate 比ibatis 上手困难， 更难学， 甚至说mybatis容易学 肯定比hibernate强多了。
+
+今天我来给hibernate一个公道。
+
+mybatis 的精髓在于 数据库能运行的query， mybatis能让其原封不动在代码里运行。
+
+hibernate的精髓在于query代码一旦写好， 各种数据库移植更换 更新再无忧虑。
+
+听懂了吗？ mybatis如果是初中生， hibernate就是大学生。
+
+1也许你会说mybatis配置简单， 那是你对比hibernate的 hql 和session
+
+2也许你会说mybatis query运行好， 那是你对 jpql不了解。
+
+3 也许你会说mybatis 开发速度快， 那是你根本就没有接触过native query
+
+4 你会说mybatis 能开发出我想要的任何代码， 那是你根本就没有遇到过200行的sql。。。 更本就不知道 criteria是什么， 根本就不知道dynamic expression
+是什么。。。。
+
+好比我exit 听错18年。。。。。。说 ibatis 强过hibernate的人，我只能说， 您缺少一个像tin神一样的程序员朋友
+。。
