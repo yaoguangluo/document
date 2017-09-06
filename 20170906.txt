@@ -1,0 +1,29 @@
+Thinking of Hibernate
+
+1 HQL,
+HQL using hibernate session, for each query which based on the reflection mapping java file.
+positive: configuration is easy,
+neigative: for join table not fast. need relationship binding.
+
+2 JPQL,
+jpql based JPA, using persistense function in the repository.
+positive: regular save and findall without configuration.
+neigative: not good drdynamic db operation.
+
+3 hibernate ORM
+3.1 JP CRITERIA,
+JP CRITERIA using dynamic expresion, and criteria build,
+3.1.1 it build JP criteria orm query.
+positive: very good for complex query
+....
+...
+4...
+
+
+5...
+
+
+6...
+
+
+tin
