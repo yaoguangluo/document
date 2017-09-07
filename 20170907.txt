@@ -1,0 +1,19 @@
+github/gitlab/git for IDE
+
+eclipse
+1 commit
+2 pull
+2.1 merge
+2.2 sytronized compare....
+3 rebase
+4 push branch
+
+intellij
+1 commit
+2 push
+3 fetch
+4 pull
+4.1 merge
+4.2 syntronized compare...
+5 push
+
