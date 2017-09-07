@@ -17,13 +17,16 @@ JP CRITERIA using dynamic expresion, and criteria build,
 positive: very good for complex query
 ....
 ...
-4...
+3.2 hibernate criteria
 
 
-5...
+4... criteria native query
 
 
-6...
+5... criteria spesification
+
+
+6...hibenate dynamic mapping 
 
 
 tin
