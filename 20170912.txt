@@ -1,0 +1,16 @@
+细数：sona的坑；
+sona 测试喜欢把class里面的private函数进行static化， 大家一定要注意， 要么别管sona，要么用staitc函数的时候进行引入全局对象。
+
+不要上了sonna的当
+1
+sona测试每次都是默认执行一遍， 大家一定要在testcase里面设置testcase选项来避免其认为是生产执行， 我之前就上了一次当。眼泪都流干了。
+
+2 
+sona 测试jpatest+springrunner时候会出现shema error 出现所有memory 表格都删除一遍， 你提交给上司看，会被批的，
+要么写个dia 继承类avoid掉 log， 要么用别的方法。
+
+3
+sona 执行inject时候repository有时候异常， 建议大家用criteria， 少用jpql。
+
+4 
+sona 部署的时候认知有复杂度， 英语不好的同学要脑补一下，给函数取完整的长的名字。
