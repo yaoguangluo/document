@@ -1,26 +1,24 @@
-Jpsir is my teacher, while I think of him. my eyes such as the lake.
+JPSir was my teacher, every time I thought of him. My eyes such as the lake.
 
 The first story
-
-I still remember a class where jpsir let us do the assemberly language for deletion.he said
-we can't use 8086/ or other higher vesion to do this logic. so we try to using 8085. after I
-searched all the asm commands, I did not find any resource about deletion. then jpsir came
-and asked, how does computer deletion? I got results, using n's complement and implememt and
-add 1 , if get carry, than do a complement add 1 again. then he got an smell, 8086's deletion
-is true using this method.
-
-after this session, I strongly knowing that science is an evolutionary inheritance。everything
-we know how to use it, and we also need to know how to made it.
+I still remembered a class where JPSir let us do the assembely language for deletion.
+He said we can't use 8086/ or other higher vesion to do this logic. So we try to using
+8085. After I searched all the asm commands, I did not find any resource about deletion.
+Then JPSir came and asked, how does computer deletion? I got results, using n's complement 
+and implememt and added 1, if got carry, then did a complement and added 1 again. Then
+he got an smell, 8086's deletion was truly promoted with this method. After this session,
+I strongly knowing that science was an evolutional inheritance. For everything we know
+how to use it, and we also need to know how to made it.
 
 The second story
+This was a computer IC class and we needed to do a runtime design of CPU, to make a 
+calculation of each ASM command processing, we also need to draw the state graph. When
+I finished the question, I saw him towerd with me and looked carefully with my graph, 
+after a while and asked me where did the clock comments? I said at the left parts, he 
+angried with me and said: why you write at the left part? all the book, all the resource
+was for the right. Suddenly I knew my mistake, and speedly changed to the right side.
+After this session, I strongly knowing that science was a rigorous and an accuration, 
+everything we know how to use it, but we could not to make change of it.  
 
-this is a computer IC class and we need to do a runtime design of CPU, to make caculation
-of each ASM command processing, we also need to draw the state graph.
+The author YaoguangLuo 稍后优化语法。
 
-when I finish the question , I saw him towerd with me and looking carefully with my graph, he asked me
-where is the clock comments? I said in the left parts, he angry with me and said: why you write in the
-left part? all the book, all the resource is for the right. I know my mistake, and suddenly changed
-to the right.
-
-after this session, I strongly knowing that science is an rigorous and accuration, everything we know
-how to use it, but we can not changed it. . 
