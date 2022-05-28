@@ -5,7 +5,7 @@ I still remembered a class where JPSir let us do the assembely language for dele
 He said we can't use 8086/ or other higher vesion to do this logic. So we try to using
 8085. After I searched all the asm commands, I did not find any resource about deletion.
 Then JPSir came and asked, how does computer deletion? I got results, using n's complement 
-and implememt and added 1, if got carry, then did a complement and added 1 again. Then
+and implement and added 1, if got carry, then did a complement and added 1 again. Then
 he got an smell, 8086's deletion was truly promoted with this method. After this session,
 I strongly knowing that science was an evolutional inheritance. For everything we know
 how to use it, and we also need to know how to made it.
