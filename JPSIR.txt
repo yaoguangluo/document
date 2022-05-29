@@ -2,7 +2,7 @@ JPSir was my teacher, every time I thought of him. My eyes such as the lake.
 
 The first story
 I still remembered a class where JPSir let us do the assembly language for deletion.
-He said we can't use 8086/ or other higher vesion to do this logic. So we try to using
+He said we can't use 8086/ or other higher version to do this logic. So we try to using
 8085. After I searched all the asm commands, I did not find any resource about deletion.
 Then JPSir came and asked, how does computer deletion? I got results, using n's complement 
 and implement and added 1, if got carry, then did a complement and added 1 again. Then
